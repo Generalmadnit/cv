@@ -125,5 +125,10 @@ main{
 }
 
 .body{
-    background-color: #050801;
+    background-color: #000000;
+}
+
+.par1
+{
+    background-color: #ff5e00;
 }
